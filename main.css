@@ -6,6 +6,32 @@ color: black;
 font-family: Verdana;
 }
 
+a:link
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    font-weight: 700;
+}
+
+a:visited
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    font-weight: 700;
+}
+
+a:hover
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    font-weight: 900;
+}
+
+
+
 #container
 {
     width: 1000px;
@@ -82,6 +108,19 @@ font-family: Verdana;
     color: white;
     padding: 20px;
     font-size: 18px;
+    text-align: center;
+}
+
+#WIP
+{
+    text-align: center;
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    width: 300px;
+    padding: 10px;
+    background-color: darkred;
+    margin-left: 650px;
 }
 
 
